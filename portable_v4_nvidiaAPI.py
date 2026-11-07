@@ -53,7 +53,7 @@ except ImportError:
 # NVIDIA NIM API
 # ======================================================================
 GROQ_URL = "https://integrate.api.nvidia.com/v1/chat/completions" 
-GROQ_API_KEY = "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"  # Вставьте сюда ваш ключ NVIDIA (начинается с nvapi-) 
+GROQ_API_KEY = "нет"  # Вставьте сюда ваш ключ NVIDIA (начинается с nvapi-) 
 GROQ_MODEL = "openai/gpt-oss-20b" 
 
 _last_groq_call = 0.0
